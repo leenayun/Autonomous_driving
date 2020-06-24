@@ -1,0 +1,7 @@
+SLAM (Simultaneous Localization And Mapping) : 위치측정 + 지도작성을 동시에 하는 기술
++ CML(Concurrent Mapping And Localization)이라고도 한다
+
+==> 맵을 생성하면서 자신의 상대적인 위치를 찾는 알고리즘
+
+
+
